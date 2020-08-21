@@ -1,0 +1,10 @@
+the tractor, 185
+ahaanmodi, 126
+Cow, 102
+Pig, 100
+Chicken, 99
+Duck, 95
+Horse, 97
+reeee, 32
+farmer, 8
+Farmer, 0
